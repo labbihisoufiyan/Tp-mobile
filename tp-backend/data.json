@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "name": "Produit 1",
+      "price": 100
+    },
+    {
+      "name": "Ordinateur portable",
+      "price": 999.99
+    }
+  ],
+  "orders": [
+    {
+      "product": "Ordinateur portable",
+      "quantity": 1
+    }
+  ]
+}
