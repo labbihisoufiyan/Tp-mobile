@@ -1,3 +1,5 @@
 "# TP Mobile - Backend & Dart" 
-"## Description" 
-"Projet de TP avec Node.js/Express et Dart" 
+"## Projet" 
+"Contient :" 
+"- tp-backend/: Serveur Node.js/Express" 
+"- tp-dart/: Client Dart" 
